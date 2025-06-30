@@ -1,0 +1,15 @@
+{
+    "name": "mia/weather-map",
+    "description": "Test Application to display weather in a map",
+    "autoload": {
+        "psr-4": {
+            "Mia\\WeatherMap\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Mudryk"
+        }
+    ],
+    "require": {}
+}
